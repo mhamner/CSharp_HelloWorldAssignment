@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\bin\Debug\CSharp_HelloWorldAssignment.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\bin\Debug\CSharp_HelloWorldAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\bin\Debug\CSharp_HelloWorldAssignment.pdb
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\obj\Debug\CSharp_HelloWorldAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\obj\Debug\CSharp_HelloWorldAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\obj\Debug\CSharp_HelloWorldAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_HelloWorldAssignment\CSharp_HelloWorldAssignment\obj\Debug\CSharp_HelloWorldAssignment.pdb
